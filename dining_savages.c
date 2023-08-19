@@ -74,3 +74,4 @@ int main(void){
     pthread_mutex_destroy(&mutex);
     return 0;
 }
+// test
